@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Henderson Times</title>
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Yrsa" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div>
+    <h1>Henderson Times</h1>
+    </div>
+    <div class="common">
+    <h2>Coding a webpage</h2>
+    <p>This is someone coding something in html right now but they look a bit frustrated because they are learning.</p>
+    <img src="type-gif.gif" alt="frustrated coder">
+    <p></p>
+</div>
+<div class="common2">
+    <h2>Listy McListy Face</h2>
+    <p>This is my attempt at putting a list in:</p>
+    <ul>
+      <li>This is one</li>
+      <li>This is two</li>
+      <li>This is three</li>
+      <li>This is four</li>
+      <li>This if five</li>
+      <li>This is six</li>
+      <li>This is seven</li>
+    </ul>
+    <p>Then I'm going to put a bit more text on the bottom about the list, just enough to make the section about as long as the other ones.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </div>
+<div class="special">
+    <h2>Pug saves human</h2>
+    <img src="giphy-downsized.gif" alt="scared pug">
+    <br>
+    <a href="http://www.google.com">Read more</a>
+</div>
+<div class="special2">
+    <h2>This is the fourth section</h2>
+    <p>Typing in some words to see what happens here.</p>
+</div>
+</body>
+</html>
