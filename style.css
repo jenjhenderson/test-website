@@ -1,45 +1,94 @@
 
-body{background-color: #287caa;
+body{background-color: #ffefd5;
 }
 h1 {
-  font-family:  'Abril Fatface', cursive;
+  font-family: 'Kurale', serif;
   text-align: center;
   font-size: 60px;
 }
 h2 {
   font-family: 'Yrsa', serif;
   text-align: left;
-  font-size: 40px
+  font-size: 35px
+}
+h5 {
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  font-size: 35px
 }
 p{
   color:black;
-  font-size:20px
+  font-size:22px
 }
 a{
-  color: blue;
+  color: black;
   text-decoration: none;
   font-size: 20px;
-  font-style: italic;
 }
 IMG{
-  width:500px;
+  width:100%;
   height: auto;
+}
+.all{
+  width:90%;
+  margin:auto;
+}
+.sectiona{
+  position: relative;
+  width: 100%;
+}
+.sectiona H2{
+  position: absolute;
+  color: white;
+  top: -25px;
+  left: 400px;
+  width: 100%;
+}
+.sectionb h2{
+    position: absolute;
+    color: white;
+    top: -25px;
+    left: 400px;
+    width: 100%;
+}
+.banner {
+  width: 100%;
+  margin: auto;
+}
+.headline{
+  font-family: 'Kurale', serif;
+  background-color: #ffefd5;
+  font-size: 45px;
+  display: inline-block;
+  text-align:center;
+  vertical-align: top;
+  width:33%;
+  margin-top: 160px;
+}
+.img1{
+  width:33%;
+  height: 40%;
+  background-color: #ffefd5;
+  text-align: center;
+  display: inline-block;
 }
 .common {
   font-family: 'Yrsa', serif;
-  background-color: #ffffff;
-  width:40%;
+  background-color: #ffefd5;
+  width:65%;
   text-align: left;
   display: inline-block;
   margin-bottom: 100px;
+  padding: 10px;
 }
 .common2 {
   font-family: 'Yrsa', serif;
-  background-color: #ffffff;
-  width:40%;
+  background-color: #dcdcdc;
+  width:25%;
   text-align: left;
   display: inline-block;
   float: right;
+  padding: 10px;
 }
 .special {
   background-color: #ffffff;
